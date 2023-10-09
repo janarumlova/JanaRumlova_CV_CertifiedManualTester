@@ -9,17 +9,17 @@ Location: Prague / Remotely
 
 ### SUMMARY ###
 
-I am a Junior Manual Tester with ISTQB certification and 20 years of experience in marketing, who decided to change direction and embark on an adventure in the field of software testing and QA. 
-In addition to the newly charged experience from the intensive course by Coders Lab, I can draw on my many years of experience working in the marketing of IT/ICT companies. 
+I am a Junior Manual Tester with ISTQB certification and 20 years of experience in marketing, who decided to change direction and embark on an adventure in the software testing and QA field. 
+In addition to the newly charged experience from the intensive course by Coders Lab, I can draw on my many years of experience in marketing IT/ICT companies. 
 Among other things, I managed the Test Lab and performed manual HW testing. 
 Thanks to cooperation with development companies and startups, I know what Agile work entails, and Scrum and Kanban are not foreign words to me. 
-I consider a continuing education is a necessity in order to move further in the field, the same as in marketing, so I am currently at the beginning of my study of programming in Python.
+Continuing education is a necessity in order to move further in the field, the same as in marketing, so I am currently at the beginning of my study of programming in Python.
 
 Potential benefits from previous marketing experience:
   - Long-term experience with Test Lab management, manual HW testing (IT, ICT products), and writing technology reviews (10 years) 
   - Knowledge of working in development companies or in startups - experience with Agile/Scrum (5 years)
   - Cooperation on the creation of websites from scratch - cooperation on user scenarios, website copywriting, SEO (4 years)
-  - Orientation in UX, web copywriting, and admnistration (Wordpress, Shoptet sys.) (4 years)
+  - Orientation in UX, web copywriting, and administration (WordPress, Shoptet sys.) (4 years)
   - Ongoing orientation in IT and telco thanks to long-term cooperation with IT/ICT companies and the need to constantly educate in the field.
 
 ### WORKING EXPERIENCE ###
@@ -29,7 +29,7 @@ Potential benefits from previous marketing experience:
 # Coders Lab #
   - 06/2023 - 08/2023
   - Prague, Czech Republic
-  - A robust 120h certified course in Manual Testing
+  - A robust 120 hours certified course in Manual Testing
     - Testing tools and apps: JIRA, Postman, Testlink
     - Web Services: SOAP, REST, JSON, HTML, CSS
     - Database: MySQL, Postgres, pgAdmin
@@ -156,7 +156,7 @@ Potential benefits from previous marketing experience:
   - Responsibilities and clients 
     - BenQ Mobile (former Siemens Mobile): PR, Media Relations, Event Management, Influencer Marketing, Test Lab Running
       - Gained Siemens Mobile PR Award 2004 for the best results in the field of communication of Siemens, IC within the CEE, RU
-    - Olympus m:robe: Project of Organization of the International Product Launch at the luxury London club The Sketch in cooperation with the London based branch office of WS - PR, Media Relations, Event Management, Influencer Marketing, VIP Customers Relations, Test Lab Running
+    - Olympus m:robe: Project of Organization of the International Product Launch at the luxury London club The Sketch in cooperation with the London-based branch office of WS - PR, Media Relations, Event Management, Influencer Marketing, VIP Customers Relations, Test Lab Running
     - Mio Technology: Launch of the new tech brand on the Czech market - Overall Marketing Strategy, Go-to-Market Strategy, PR, Media Relations, Test Lab Running, ATL, BTL, Event Management, Influencer Marketing
     - Siemens Transportation Systems: Project of Celebration of the 200th underground train for Prague - Project Management, PR, Media Relations, Event management
     - PUMA Czech Republic: followed by the position of External PR manager of PUMA Czech Republic (more details mentioned above)
