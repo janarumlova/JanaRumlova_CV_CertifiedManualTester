@@ -1,4 +1,4 @@
-#### JANA RUMLOVA ####
+# JANA RUMLOVA # 
 Certified Manual Tester
 
 Email: jana.rumlova@gmail.com
@@ -7,26 +7,22 @@ LinkedIn: [https://www.linkedin.com/in/janarumlova](https://www.linkedin.com/in/
 GitHub: [https://github.com/janarumlova](https://github.com/janarumlova)
 Location: Prague / Remotely
 
-### SUMMARY ###
+## SUMMARY ##
 
-I am a Junior Manual Tester with ISTQB certification and 20 years of experience in marketing, who decided to change direction and embark on an adventure in the software testing and QA field. 
-In addition to the newly charged experience from the intensive course by Coders Lab, I can draw on my many years of experience in marketing IT/ICT companies. 
-Among other things, I managed the Test Lab and performed manual HW testing. 
-Thanks to cooperation with development companies and startups, I know what Agile work entails, and Scrum and Kanban are not foreign words to me. 
-Continuing education is a necessity in order to move further in the field, the same as in marketing, so I am currently at the beginning of my study of programming in Python.
+I am a Junior Manual Tester with ISTQB certification and 20 years of experience in marketing, who decided to change direction and embark on an adventure in the software testing and QA field. In addition to the newly charged experience from the intensive course by Coders Lab, I can draw on my many years of experience in marketing IT/ICT companies. Among other things, I managed the Test Lab and performed manual HW testing. Thanks to cooperation with development companies and startups, I know what Agile work entails, and Scrum and Kanban are not foreign words to me. Continuing education is a necessity in order to move further in the field, the same as in marketing, so I am currently at the beginning of my study of programming in Python.
 
 Potential benefits from previous marketing experience:
-  - Long-term experience with Test Lab management, manual HW testing (IT, ICT products), and writing technology reviews (10 years) 
+  - Long-term experience with TestLab management, manual HW testing (IT/ICT products), writing tech reviews (10 years) 
   - Knowledge of working in development companies or in startups - experience with Agile/Scrum (5 years)
   - Cooperation on the creation of websites from scratch - cooperation on user scenarios, website copywriting, SEO (4 years)
   - Orientation in UX, web copywriting, and administration (WordPress, Shoptet sys.) (4 years)
   - Ongoing orientation in IT and telco thanks to long-term cooperation with IT/ICT companies and the need to constantly educate in the field.
 
-### WORKING EXPERIENCE ###
+## WORKING EXPERIENCE ###
 
-## JUNIOR MANUAL TESTER ##
+### JUNIOR MANUAL TESTER ###
 
-# Coders Lab #
+#### Coders Lab ####
   - 06/2023 - 08/2023
   - Prague, Czech Republic
   - A robust 120 hours certified course in Manual Testing
@@ -36,9 +32,9 @@ Potential benefits from previous marketing experience:
     - Practice: Test Analysis, Test Cases, Bug, Reports
     - ISTQB Foundation Level Certification: passed
 
-## FREELANCE MARKETING & PR CONSULTANT ##
+### FREELANCE MARKETING & PR CONSULTANT ###
 
-# Outsourcing Marketing Services - Clients listed below # 
+#### Outsourcing Marketing Services - Clients listed below #### 
   - 01/2008 - 05/2023
   - Prague / Remotely
   - Providing services in the field of Marketing Communication:
@@ -55,39 +51,39 @@ Potential benefits from previous marketing experience:
     - Business Development
     - Reporting & Analyses  
 
-# Brand & Marketing Manager at Puremari #
+#### Brand & Marketing Manager at Puremari ####
   - 09/2021 - 07/2022
   - Prague, Pardubice, Czech Republic
   - Responsibilities and services
     - Puremari: Brand and production development and go-to-market marketing strategy for the upcoming brand of CBD cosmetics
 
-# Marketing Manager at Flexiana #
+#### Marketing Manager at Flexiana ####
   - 06/2020 - 11/2020
   - Prague/Czech Republic - London/UK
   - Responsibilities and services
-    - Flexiana: Design and implementation of a marketing strategy to strengthen Flexiana brand among the potential clients, increase worldwide awareness in Clojure community
+    - Flexiana: Design and implementation of a marketing strategy to strengthen the Flexiana brand among potential clients,       and increase worldwide awareness in the Clojure community
 
-# Marketing & PR Executive Strategist at PPC Bee, now Dotidot #
+#### Marketing & PR Executive Strategist at PPC Bee, now Dotidot ####
   - 06/2019 - 10/2019
   - Prague, Czech Republic
   - Responsibilities and services
-    - PPC Bee: Design and implementation of a marketing strategy to strengthen the PPC Bee brand among the potential clients and increase awareness worldwide
+    - PPC Bee: Design and implementation of a marketing strategy to strengthen the PPC Bee brand among potential clients and increase awareness worldwide
 
-# Head of PR at Whatever Agency at Creative Dock # 
+#### Head of PR at Whatever Agency at Creative Dock #### 
   - 07/2018 - 02/2019
   - Prague, Czech Republic
   - Responsibilities and clients
     - Creative Dock: Managing PR activities for Creative Dock and startups built/developed by CD
     - Mutumutu: PR, Media Relations
-    - CUBIQ: PR, Media Relations, Event Managements
-    - Pointa: PR, Media Relations, Event Managements
+    - CUBIQ: PR, Media Relations, Event Management
+    - Pointa: PR, Media Relations, Event Management
     - Filip a Sofie: PR, Media Relations before project suspensions
 
-# External Senior Marketing & PR Consultant at accedo Czech Republic # 
+#### External Senior Marketing & PR Consultant at accedo Czech Republic #### 
   - 01/2010 - 07/2018
   - Prague, Czech Republic
   - Responsibilities and clients
-    - HUAWEI Technologies Czech s.r.o.: PR, Media Relations, Event management, Test Lab Running
+    - HUAWEI Technologies Czech s.r.o.: PR, Media Relations, Event Management, Test Lab Running
     - Ice-Watch CZ: Overall Brand Marketing Strategy, PR, Media Relations, Events, Digital, Influencers, Trade Marketing. 
       - Gained Ice-Watch Award for the Second Best PR Worldwide in 2010 (1st Place - USA)
     - Unilever Food Solutions: PR, Media Relations, Event management
@@ -95,35 +91,35 @@ Potential benefits from previous marketing experience:
     - Lasvit: PR, Media Relations
     - Festka Bicycles: PR, Media Relations
 
-# Project Marketing Manager at SUNSPOT Communication # 
+#### Project Marketing Manager at SUNSPOT Communication ####
   - 10/2012 - 12/2014
   - Prague, Czech Republic
   - Responsibilities and services
-    - Marketing Communication of the BEWISE project: PR, Media relations, ATL, BTL, Content Management, Social Media, Events Management
+    - Marketing Communication of the BEWISE project: PR, Media Relations, ATL, BTL, Content Management, Social Media, Events Management
     - Preparation of documents for drawing subsidies - Construction of a biogas station in the Pardubice region, implemented with the support of the EU and Intelligence Energy Europe
 
-# Marketing & PR Representative of PayPal Inc. for CZ/SK # 
+#### Marketing & PR Representative of PayPal Inc. for CZ/SK #### 
   - 02/2012 - 11/2012
   - Prague, Czech Republic
   - Responsibilities and services
     - PayPal: Proposal and implementation of marketing activities of PayPal Inc. in the Czech Republic and Slovakia, executed in coordination with CLUE PR Poland - PR, Media Relations, Events Management, ATL, Digital
 
-# PR & Event Manager of adidas Brands # 
+#### PR & Event Manager of adidas Brands #### 
   - 02/2010 - 05/2012
   - Prague, Czech Republic
   - Responsibilities and services
-    - adidas Performance: PR, Media Relations, Event Managements, Influencer Marketing, Showroom Running & Fashion Styling, Social Media, Business Development
-    - adidas Originals: PR, Media Relations, Event Managements, Influencer Marketing, Showroom Running & Fashion Styling, Social Media, Business Development
-    - REEBOK: PR, Media Relations, Event Managements, Influencer Marketing, Showroom Running & Fashion Styling, Social Media
+    - adidas Performance: PR, Media Relations, Event Management, Influencer Marketing, Showroom Running & Fashion Styling, Social Media, Business Development
+    - adidas Originals: PR, Media Relations, Event Management, Influencer Marketing, Showroom Running & Fashion Styling, Social Media, Business Development
+    - REEBOK: PR, Media Relations, Event Management, Influencer Marketing, Showroom Running & Fashion Styling, Social Media
 
-# Brand Manager Oakley Czech Republic & Slovakia at MOFO CZ/SK # 
+#### Brand Manager Oakley Czech Republic & Slovakia at MOFO CZ/SK #### 
   - 11/2011 - 04/2012
   - Prague, Czech Republic
   - Responsibilities and services
     - Oakley: Brand management and overall marketing strategy proposal and execution 
     - PR, Media Strategy, Event Management, Influencer Marketing, ATL, BTL, Digital, Social Media, New Store Openings, Showroom running, CRM
 
-# Project Manager at ProfilMedia # 
+#### Project Manager at ProfilMedia #### 
   - 09/2009 - 03/2010
   - Prague, Czech Republic
   - Responsibilities and clients
@@ -131,13 +127,13 @@ Potential benefits from previous marketing experience:
     - Křehký Gallery: PR, Media Relations, Production
     - Vitra Koncept: PR, Media Relations, Events Management
 
-# PR & Event Manager at PUMA Czech Republic # 
+#### PR & Event Manager at PUMA Czech Republic #### 
   - 01/2007 - 02/2009
   - Prague, Czech Republic
   - Responsibilities and services
-    - PUMA Czech Rep.: PR, Media Relations, Event Managements, Influencer Marketing, Showroom Running & Fashion Styling, Social Media, Business Development, In-store marketing, VIP Clients Relationship
+    - PUMA Czech Rep.: PR, Media Relations, Event Management, Influencer Marketing, Showroom Running & Fashion Styling, Social Media, Business Development, In-store marketing, VIP Clients Relationship
 
-# External PR Account Manager at maXmedia agency # 
+#### External PR Account Manager at maXmedia agency #### 
   - 02/2008 - 12/2008
   - Prague, Czech Republic
   - Responsibilities and clients 
@@ -148,9 +144,9 @@ Potential benefits from previous marketing experience:
     - Skullcandy Headphones: PR, Media Relations, Influencer Marketing
     - Oakley: PR, Media Relations, Influencer Marketing
 
-## SENIOR MARKETING & PR MANAGER AT WEBER SHNDWICK AGENCY ## 
+### SENIOR MARKETING & PR MANAGER AT WEBER SHNDWICK AGENCY ### 
 
-# WeberShandwick # 
+#### WeberShandwick ####
   - 01/2004 - 01/2008
   - Prague, Czech Republic & London, United Kingdom
   - Responsibilities and clients 
@@ -166,7 +162,7 @@ Potential benefits from previous marketing experience:
 
 More information can be found on Linkedin or on request.
 
-### SKILLS ###
+## SKILLS ##
 
 - SCRUM
 - Kanban
@@ -188,7 +184,7 @@ More information can be found on Linkedin or on request.
 - SEO & Copy
 - Soc Media
 
-### TOOLS & APPLICATIONS ###
+## TOOLS & APPLICATIONS ##
 
 - Postman
 - Testlink
@@ -211,7 +207,7 @@ More information can be found on Linkedin or on request.
 - Discord
 - Slack
 
-### TRAINING / COURSES ###
+## TRAINING / COURSES ##
 
 - Software Manual Tester: Coders Lab
 - Czech and Slovak Testing Board: ISTQB Manual Tester Foundation Level
@@ -222,7 +218,7 @@ More information can be found on Linkedin or on request.
 - PPC Bee Academy: Dotidot
 - Fundamentals of SQL: David Šetek
 
-### CERTIFICATION ###
+## CERTIFICATION ##
 
 - ISTQB Foundation Level: Czech and Slovak Testing Board / ISTQB - 08/2023
 - Agile with Atlassian JIRA: Atlassian University / Coursera - 08/2023
@@ -232,19 +228,19 @@ More information can be found on Linkedin or on request.
 - Hatha Yoga Teacher, 150 hours, MŠMT certificate: Ministerstvo školství, mládeže a tělovýchovy (MŠMT) - 02/2018
 - RYT 200 Hatha & Vinyasa Yoga Teacher Certification: Yoga Alliance - 02/2018
 
-### LANGUAGES ###
+## LANGUAGES ##
 
 - Czech
 - English
 - German
 - Spanish
 
-### AWARDS ###
+## AWARDS ##
 
-- ICE-WATCH Communication Award 2010: Awarded for the second best PR service and coverage worldwide.
+- ICE-WATCH Communication Award 2010: Awarded for the second-best PR service and coverage worldwide.
 - Siemens Mobile PR Award 2004: Awarded for the best results in the field of communication of Siemens, IC within the CEE, RU
 
-### EDUCATION ###
+## EDUCATION ##
 
 - Engineer of Economics: Specialization in Marketing
   - Technical University in Liberec
