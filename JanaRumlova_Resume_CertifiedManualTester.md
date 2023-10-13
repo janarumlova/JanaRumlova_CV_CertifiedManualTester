@@ -249,6 +249,6 @@ More information can be found on Linkedin or on request.
   - 1998 - 2003
     - Studies at the Faculty of Economics with a focus on marketing and communication. Graduated with an annual merit scholarship. 
     - In the course of my studies, practiced in marketing agencies:
-      - Garpon & Rebel (HW Testing & Technical Reviews, 1yr temp work)
-      - MMD PR Agency (PR Executive, 4yrs temp work)
+      - Garpon & Rebel (HW Testing & Technical Reviews, 1 year temp work)
+      - MMD PR Agency (PR Executive, 4 years temp work)
       - Mediarex (Market Researcher, 6 months temp work)
