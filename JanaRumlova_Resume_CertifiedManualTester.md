@@ -239,7 +239,7 @@ More information can be found on Linkedin or on request.
 
 ## AWARDS ##
 
-- ICE-WATCH Communication Award 2010: Awarded for the second best PR service and coverage worldwide.
+- ICE-WATCH Communication Award 2010: Awarded for the second-best PR service and coverage worldwide.
 - Siemens Mobile PR Award 2004: Awarded for the best results in the field of communication of Siemens, IC within the CEE, RU
 
 ## EDUCATION ##
