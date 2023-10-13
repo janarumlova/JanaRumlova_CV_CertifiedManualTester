@@ -232,10 +232,10 @@ More information can be found on Linkedin or on request.
 
 ## LANGUAGES ##
 
-- Czech
-- English
-- German
-- Spanish
+- Czech (Native)
+- English (B2)
+- German (B1)
+- Spanish (A1)
 
 ## AWARDS ##
 
