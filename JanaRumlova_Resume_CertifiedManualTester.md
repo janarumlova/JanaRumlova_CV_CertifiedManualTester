@@ -28,7 +28,7 @@ Potential benefits from previous marketing experience:
   - A robust 120h certified course in Manual Testing
     - Testing tools and apps: JIRA, Postman, Testlink
     - Web Services: SOAP, REST, JSON, HTML, CSS
-    - Database: MySQL, Postgres, pgAdmin
+    - Database: MySQL, PostgreSQL, pgAdmin
     - Practice: Test Analysis, Test Cases, Bug, Reports
     - ISTQB Foundation Level Certification: passed
 
@@ -191,7 +191,7 @@ More information can be found on Linkedin or on request.
 - Soap UI
 - MySQL
 - pgAdmin
-- Postgress
+- PostgreSQL
 - JIRA
 - Confluence
 - Asana
