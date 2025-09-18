@@ -40,7 +40,7 @@ Before my career in QA and testing, I gained many years of experience in marketi
   - Prague, Czech Republic 
 Responsibility for the entire QA agenda within the company  
 
-### Daily base activities:
+##### Daily base activities:
 - Performing manual software and application testing  
 - Creating (Playwright) and executing (Cypress) automated tests 
 - Writing and maintaining test scenarios, cases, and plans  
@@ -287,6 +287,7 @@ More information can be found on Linkedin or on request.
       - Garpon & Rebel (HW Testing & Technical Reviews, 1 year temp work)
       - MMD PR Agency (PR Executive, 4 years temp work)
       - Mediarex (Market Researcher, 6 months temp work)
+
 
 
 
