@@ -40,25 +40,24 @@ Before my career in QA and testing, I gained many years of experience in marketi
   - Prague, Czech Republic 
 Responsibility for the entire QA agenda within the company  
 
-### General knowledge:
-- Experience with manual software and application testing  
-- Practice with automation testing tools (e.g., Cypress, Playwright)  
-- Knowledge of programming languages (JavaScript, TypeScript, Ruby on Rails, React JS)  
-- Experience with version control systems (GIT)  
-- Experience with development tools: Docker, Swagger, GitHub, Git Bash, VS Code  
-- Knowledge of SQL and database work (MySQL, SQL Server Management Studio, pgAdmin)  
-- Experience with REST and SOAP API testing (Postman, Bruno)  
-- Ability to write test scenarios and test cases  
-- Familiarity with defect tracking and management tools (JIRA, Bugzilla, Testlink)  
-- Knowledge of testing methodologies and processes (Agile, Scrum, Waterfall)  
-- Understanding of the Software Development Life Cycle (SDLC)  
-- Ability for analytical thinking and problem solving  
-- Strong communication skills and ability to work in a team  
-- Detail-oriented approach and accuracy in defect detection  
-- Flexibility and ability to quickly learn new technologies and tools  
-- Experience in writing test cases and test plans  
-- Knowledge of software testing fundamentals and testing methodologies (ISTQB certification)  
+## Q A  T E S T E R |  M A R  2 0 2 4 - P R E S E N T  
+**P O P R O N  S Y S T E M S  A . S .,  P R A G U E**  
+Responsibility for the entire QA agenda within the company  
 
+### Daily base activities:
+- Performing manual software and application testing  
+- Creating (Playwright) and executing (Cypress) automated tests 
+- Writing and maintaining test scenarios, cases, and plans  
+- Testing REST and SOAP APIs with Postman
+- Tracking and reporting defects using Jira
+- Communicating with developers and stakeholders to resolve issues  
+- Performing defect detection with high accuracy and attention to detail  
+- Collaborating in team sprints and QA planning sessions 
+- Using version control systems (Git/GitHub) for collaboration  
+- Applying development tools: Docker, Swagger, Git Bash, VS Code  
+- Working with SQL databases (SQL Server Management Studio)  
+- Tracking and reporting defects using Jira
+  
 
 ### JUNIOR MANUAL TESTER ###
 
@@ -292,4 +291,5 @@ More information can be found on Linkedin or on request.
       - Garpon & Rebel (HW Testing & Technical Reviews, 1 year temp work)
       - MMD PR Agency (PR Executive, 4 years temp work)
       - Mediarex (Market Researcher, 6 months temp work)
+
 
